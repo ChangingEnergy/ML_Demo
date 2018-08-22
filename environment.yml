@@ -11,4 +11,8 @@ dependencies:
     - sklearn
     - scipy
     - keras
+<<<<<<< HEAD
     - tensorflow
+=======
+    - tensorflow
+>>>>>>> 2be52d288e578eb6a88829c3cf9050aadd342208
