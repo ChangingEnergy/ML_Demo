@@ -12,4 +12,3 @@ dependencies:
     - sklearn
     - scipy
     - keras
-    - tensorflow
